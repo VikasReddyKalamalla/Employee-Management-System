@@ -1,8 +1,8 @@
 # EmployeeManagementSystem
 
-Employee Management System
 
-A Full-Stack Employee Management System built with the MERN Stack (MongoDB, Express.js, React.js, Node.js) that provides a complete employee management workflow with seamless CRUD operations, responsive user experience, and real-time database synchronization.
+
+🧩A Full-Stack Employee Management System built with the MERN Stack (MongoDB, Express.js, React.js, Node.js) that provides a complete employee management workflow with seamless CRUD operations, responsive user experience, and real-time database synchronization.
 
 📖 Overview
 
