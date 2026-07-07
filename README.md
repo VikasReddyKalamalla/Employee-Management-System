@@ -74,34 +74,12 @@ MongoDB Compass
 Git
 GitHub
 
-📂 Project Structure
-Employee-Management-System/
-│
-├── client/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── services/
-│   │   ├── hooks/
-│   │   ├── App.jsx
-│   │   └── main.jsx
-│   │
-│   └── package.json
-│
-├── server/
-│   ├── config/
-│   ├── controllers/
-│   ├── middleware/
-│   ├── models/
-│   ├── routes/
-│   ├── server.js
-│   └── package.json
-│
-├── README.md
-└── .gitignore
+
+
 
 
 ⚙️ Application Workflow
+
 User
 
 ↓
